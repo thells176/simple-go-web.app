@@ -1,6 +1,6 @@
 {
 	"ImportPath": "github.com/cloudfoundry-community/simple-go-web-app",
-	"GoVersion": "go1.5",
+	"GoVersion": "recent",
 	"Packages": [
 		"./..."
 	],
